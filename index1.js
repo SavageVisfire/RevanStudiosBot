@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const { Client, RichEmbed } = require('discord.js');
-var token = 'NTA0NDc0MzI2MTEyNzk2Njg0.XUhIeg.MfWyoPJeJ1FdJNUT__HRDVALmsw'
+var token = 'NTA0NDc0MzI2MTEyNzk2Njg0.DrFj7w.5fDoYQB2IIgb2TRZE_pmWSsKlU0'
 var prefix = '!'
 var targettime= new Date("November 19, 2018 00:00:01").getTime();
 let shutdownstring = Math.random().toString(36).substring(7);
